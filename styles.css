@@ -334,6 +334,7 @@ div.speakers {
 .speaker-container h3 {
   margin: 15px 0 5px;
   font-size: 1.35rem;
+  text-shadow: -1px 1px 3px #4848478f;
 }
 .speaker-container a:focus {
   outline-color: #26322d;
