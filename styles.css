@@ -305,7 +305,7 @@ div.speakers {
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-color: #6e9284;
+  background-color: #f4f4f4;
 }
 .speaker-container {
   display: flex;
@@ -318,7 +318,10 @@ div.speakers {
   font-size: 1.8rem;
   margin: 30px 0 10px;
   text-align: center;
-  text-shadow: -2px 2px 5px #000;
+  text-shadow: -2px 2px 5px #4848478f;
+}
+.speakers h2, .speakers .speaker-container, .speakers .speaker-container a {
+  color: #484847;
 }
 .speaker-image {
   height: 300px;
@@ -339,7 +342,6 @@ div.speakers {
   outline-offset: 2px;
 }
 .speaker-container a.link-agenda {
-  color: #fff;
   font-size: 1.1rem;
 }
 .speaker-container p {
