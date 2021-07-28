@@ -388,7 +388,8 @@ div.speakers {
 .sophie {
   background-image: url("./resources/speakers/day_2/sophie_okolo_speaker.jpg");
   background-repeat: no-repeat;
-  background-position: -31px 5px/109%;
+  background-position: -31px 5px;
+  background-size: 109%;
   background-color: #604f3d;
 }
 /* .ans {
