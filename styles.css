@@ -350,148 +350,88 @@ div.speakers {
   font-size: 1.15rem;
   width: 326px;
 }
-.wilnelia {
-  background-image: url("./resources/speakers/day_one/wilnelia_recart_gonzález.jpg");
-}
-.hailey {
-  background-image: url("./resources/speakers/day_one/Hailey_Levi-Speaker.png");
-  background-position-y: -60px;
-}
-.danielle {
-  background-image: url("./resources/speakers/day_one/danielle_heinz.jpg");
-  background-position-y: -40px;
-}
-.robin {
-  background-image: url("./resources/speakers/day_one/robin-lopez.jpg");
-}
-.kyle {
-  background-image: url("./resources/speakers/day_one/Kyle_Marian.JPG");
-  background-position: top;
-}
-.ravi {
-  background-image: url("./resources/speakers/day_two/Ravi-Speaker.jpg");
-  background-position-y: -18px;
-}
-.newton {
-  background-image: url("./resources/speakers/day_two/Newton.jpg");
-  background-position-y: -42px;
-}
-.alyssa {
-  background-image: url("./resources/speakers/day_two/Alyssa.JPG");
-  background-position: -52px -48px;
-  background-size: 160%;
-}
-.karen {
-  background-image: url("./resources/speakers/day_two/Karen_Tang.jpg");
-  background-position-y: -25px;
-  background-size: 115%;
-}
-.ariana {
-  background-image: url("./resources/speakers/day_two/Ariana.jpg");
-  background-size: 120%;
-  background-position: -12px -127px;
-}
-.megan {
-  background-image: url("./resources/speakers/day_two/Megan_Lynch_Lab_Photo.JPG");
-  background-position-y: 0;
+.evelyn {
+  background-image: url("./resources/speakers/day_1/Evelyn_Valdez-Ward_Speaker_2.png");
+  background-position: 19px -42px;
+  background-color: white;
   background-size: 103%;
 }
-.nichole {
-  background-image: url("./resources/speakers/day_two/Nichole_Bennett_Speaker.jpg");
-}
-a.nichole-link {
-  color: #fff;
-}
-.linh-anh {
-  background-image: url("./resources/speakers/day_two/Linh_Anh_Cat-Co-Founder.jpg");
-  background-position-y: -60px;
-}
-.iam {
-  background-image: url("./resources/speakers/day_two/GaieckWilliam_ProfilePicture.jpg");
-  background-size: 113%;
-  background-position: 0px -30px;
-}
-.crystal {
-  background-image: url("./resources/speakers/day_two/Crystal_Grant.JPG");
-  background-position-y: -50px;
-}
-.maria {
-  background-image: url("./resources/speakers/day_two/Montchal_Headshot.jpeg");
-  background-position-y: -10px;
+.robert {
+  background-image: url("./resources/speakers/day_1/Rob_Ulrich_Speaker.jpeg");
+  background-position: -3px 0px;
+  background-color: #ececea;
+  background-size: 100%;
 }
 .dane {
-  background-image: url("./resources/speakers/day_two/Dane_Samilo_Speaker.jpg");
+  background-image: url("./resources/speakers/day_1/Dane_Samilo_Speaker.jpg");
 }
-.ivan {
-  background-image: url("./resources/speakers/day_two/Ivan_Moreno_Speaker.jpg");
+.ana {
+  background-image: url("./resources/speakers/day_1/Ana_Maria_Porras_Speaker.jpeg");
+  background-position: 25px -4px;
+  background-color: white;
 }
-.ti {
-  background-image: url("./resources/speakers/day_two/Ti_'era.JPEG");
-  background-position-y: -67px;
+.alyssa {
+  background-image: url("./resources/speakers/day_1/Alyssa_Paparella_Speaker.JPG");
+  background-position: 0px -12px;
+  background-size: 115%;
 }
-.leakana {
-  background-image: url("./resources/speakers/day_three/Leakana_Picture_1.jpg");
-  background-position: -89px 0px;
+.rey {
+  background-image: url("./resources/speakers/day_1/Reyhaneh_Maktoufi_Speaker.jpg");
+  background-position: -116px -11px;
+  background-size: 158%;
+}
+.celina {
+  background-image: url("./resources/speakers/day_1/Celina_Valencia_Speaker.png");
+  background-position: -5px 0px;
+  background-size: 104%;
+}
+/* .chelsie {
+  background-image: url("./resources/speakers/day_1/");
+} */
+.emily {
+  background-image: url("./resources/speakers/day_2/Emily_Turner_Speaker.jpg");
+  background-position: 0px 0px;
+}
+.samantha {
+  background-image: url("./resources/speakers/day_2/samantha_yammine_speaker.jpg");
+  background-position: -20px -25px;
+  background-size: 107%;
+}
+.sophie {
+  background-image: url("./resources/speakers/day_2/sophie_okolo_speaker.jpg");
+  background-repeat: no-repeat;
+  background-position: -31px 5px;
+  background-size: 109%;
+  background-color: #604f3d;
+}
+.ans {
+  background-image: url("./resources/speakers/day_2/Ans_Irfan_Speaker.jpg");
+  background-position: -35px -69px;
   background-size: 137%;
 }
-.lydia {
-  background-image: url("./resources/speakers/day_three/Lydia_Jennings.jpg");
-  background-position: -81px -38px;
-  background-size: 170%;
-}
-.stephanie {
-  background-image: url("./resources/speakers/day_three/Stephanie_Castillo.jpeg");
-  background-position: -5px -96px;
-  background-size: 110%;
-}
-.toby {
-  background-image: url("./resources/speakers/day_three/toby_itati.jpg");
-  background-position: 0 0;
-}
-.gabe {
-  background-image: url("./resources/speakers/day_three/gabe_santos.JPG");
-  background-position: -176px -44px;
-  background-size: 205%;
-}
-.jeanette {
-  background-image: url("./resources/speakers/day_three/jeanette_pirlo.jpeg");
+.robin {
+  background-image: url("./resources/speakers/day_2/robin_aguilar_speaker.jpg");
+  background-position: -60px -5px;
   background-size: 140%;
-  background-position: -43px -48px;
 }
-.phong {
-  background-image: url("./resources/speakers/day_four/Phong.jpeg");
-  background-position-y: 0px;
+.mani {
+  background-image: url("./resources/speakers/day_3/mani_garcía_speaker.jpg");
+  background-position: -4px -43px;
+  background-size: 119%;
 }
-.priya {
-  background-image: url("./resources/speakers/day_four/Priya_Shukla.jpg");
-  background-position: -31px -97px;
-  background-size: 111%;
+.hailey {
+  background-image: url("./resources/speakers/day_3/Hailey_Levi_Speaker.png");
+  background-position-y: -60px;
 }
-.vetri {
-  background-image: url("./resources/speakers/day_four/Vetri.jpg");
-  background-position-y: -94px;
+.christopher {
+  background-image: url("./resources/speakers/day_3/chris_jackson_speaker.jpg");
+  background-position: -13px -20px;
+  background-color: #e6e7e9;
 }
-.lourdes {
-  background-image: url("./resources/speakers/day_four/lourdes_vera.jpg");
-  background-position-x: 0;
-}
-.leslie {
-  background-image: url("./resources/speakers/day_four/leslie.JPG");
-  background-position: -15px -48px;
-  background-size: 105%;
-}
-.bala {
-  background-image: url("./resources/speakers/day_four/bala.jpg");
-  background-position-x: -100px;
-}
-.tam {
-  background-image: url("./resources/speakers/day_four/Tamara_Marcus-East_Coast_Director.jpg");
-  background-position: -131px -32px;
-  background-size: 172%;
-}
-.jason {
-  background-image: url("./resources/speakers/day_four/Jason_Ward_Keynote.jpeg");
-  background-position-y: -20px;
+.adys {
+  background-image: url("./resources/speakers/day_3/adys_mendizabal_speaker.jpg");
+  background-position: -117px -31px;
+  background-size: 174%;
 }
 /* ************** */
 /*  ** Donors **  */
