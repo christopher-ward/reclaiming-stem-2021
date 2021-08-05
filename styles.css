@@ -350,9 +350,12 @@ div.speakers {
   font-size: 1.15rem;
   width: 326px;
 }
-/* .evelyn {
-  background-image: url("./resources/speakers/day_1/");
-} */
+.evelyn {
+  background-image: url("./resources/speakers/day_1/Evelyn_Valdez-Ward_Speaker_2.png");
+  background-position: 19px -42px;
+  background-color: white;
+  background-size: 103%;
+}
 .robert {
   background-image: url("./resources/speakers/day_1/Rob_Ulrich_Speaker.jpeg");
   background-position: -3px 0px;
@@ -372,6 +375,11 @@ div.speakers {
   background-position: 0px -12px;
   background-size: 115%;
 }
+.rey {
+  background-image: url("./resources/speakers/day_1/Reyhaneh_Maktoufi_Speaker.jpg");
+  background-position: -116px -11px;
+  background-size: 158%;
+}
 .celina {
   background-image: url("./resources/speakers/day_1/Celina_Valencia_Speaker.png");
   background-position: -5px 0px;
@@ -380,6 +388,10 @@ div.speakers {
 /* .chelsie {
   background-image: url("./resources/speakers/day_1/");
 } */
+.emily {
+  background-image: url("./resources/speakers/day_2/Emily_Turner_Speaker.jpg");
+  background-position: 0px 0px;
+}
 .samantha {
   background-image: url("./resources/speakers/day_2/samantha_yammine_speaker.jpg");
   background-position: -20px -25px;
@@ -392,9 +404,16 @@ div.speakers {
   background-size: 109%;
   background-color: #604f3d;
 }
-/* .ans {
-  background-image: url("./resources/speakers/day_2/");
-} */
+.ans {
+  background-image: url("./resources/speakers/day_2/Ans_Irfan_Speaker.jpg");
+  background-position: -35px -69px;
+  background-size: 137%;
+}
+.robin {
+  background-image: url("./resources/speakers/day_2/robin_aguilar_speaker.jpg");
+  background-position: -60px -5px;
+  background-size: 140%;
+}
 .mani {
   background-image: url("./resources/speakers/day_3/mani_garcía_speaker.jpg");
   background-position: -4px -43px;
