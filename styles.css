@@ -169,6 +169,7 @@ div.conf-agenda {
   border-right: unset;
   border-left: unset;
   text-align: center;
+  text-shadow: -1px 1px 1px #000;
 }
 .day-head span {
   font-size: 1.15rem;
