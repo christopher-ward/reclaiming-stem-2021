@@ -330,6 +330,17 @@ div.speakers {
   font-size: 1.35rem;
   text-shadow: -1px 1px 3px #4848478f;
 }
+.speaker-container h4 {
+  margin: 2px 0 0 0;
+}
+.speaker-container h5 {
+  margin: 0;
+  font-size: 0.9rem;
+  line-height: 1.25rem;
+}
+.speaker-container h5:last-of-type {
+  margin-bottom: 5px;
+}
 .speaker-container a:focus {
   outline-color: #26322d;
   outline-style: dashed;
