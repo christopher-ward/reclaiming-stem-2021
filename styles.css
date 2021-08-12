@@ -330,16 +330,23 @@ div.speakers {
   font-size: 1.35rem;
   text-shadow: -1px 1px 3px #4848478f;
 }
-.speaker-container h4 {
+.speaker-container p.pronouns {
   margin: 2px 0 0 0;
+  font-size: 1rem;
+  font-weight: bold;
 }
-.speaker-container h5 {
+.speaker-container a.social-media {
   margin: 0;
   font-size: 0.9rem;
   line-height: 1.25rem;
+  font-weight: bold;
 }
-.speaker-container h5:last-of-type {
+.speaker-container a:nth-last-of-type(2) {
   margin-bottom: 5px;
+}
+.speaker-container span {
+  font-size: 0.75rem;
+  font-weight: 600;
 }
 .speaker-container a:focus {
   outline-color: #26322d;
