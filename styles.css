@@ -330,6 +330,24 @@ div.speakers {
   font-size: 1.35rem;
   text-shadow: -1px 1px 3px #4848478f;
 }
+.speaker-container p.pronouns {
+  margin: 2px 0 0 0;
+  font-size: 1rem;
+  font-weight: bold;
+}
+.speaker-container a.social-media {
+  margin: 0;
+  font-size: 0.9rem;
+  line-height: 1.25rem;
+  font-weight: bold;
+}
+.speaker-container a:nth-last-of-type(2) {
+  margin-bottom: 5px;
+}
+.speaker-container span {
+  font-size: 0.75rem;
+  font-weight: 600;
+}
 .speaker-container a:focus {
   outline-color: #26322d;
   outline-style: dashed;
@@ -344,8 +362,13 @@ div.speakers {
   font-size: 1.15rem;
   width: 326px;
 }
+.angelina {
+  background-image: url("./resources/speakers/day_1/angelina_gomez_speaker.jpg");
+  background-position: -100px -34px;
+  background-size: 144%;
+}
 .evelyn {
-  background-image: url("./resources/speakers/day_1/Evelyn_Valdez-Ward_Speaker_2.png");
+  background-image: url("./resources/speakers/day_1/Evelyn_Valdez-Ward_Speaker.png");
   background-position: 19px -42px;
   background-color: white;
   background-size: 103%;
@@ -379,9 +402,10 @@ div.speakers {
   background-position: -5px 0px;
   background-size: 104%;
 }
-/* .chelsie {
-  background-image: url("./resources/speakers/day_1/");
-} */
+.chelsie {
+  background-image: url("./resources/speakers/day_1/Chelsie_Johnson_Speaker.JPG");
+  background-position: -75px 0px;
+}
 .emily {
   background-image: url("./resources/speakers/day_2/Emily_Turner_Speaker.jpg");
   background-position: 0px 0px;
@@ -448,13 +472,16 @@ div.donors {
   margin: 15px 0;
   line-height: 1.75rem;
 }
-.donors p:nth-child(4) {
-  width: 316px;
+.donors p:nth-child(3) {
+  margin: 0;
 }
-.donors p:nth-child(9) {
+.donors p:nth-child(4) {
+  width: 325px;
+}
+.donors p:nth-last-child(2) {
   width: 462px;
 }
-.donors p:nth-child(9), .donors p:nth-child(10) {
+.donors p:nth-last-child(2), .donors p:last-child {
   font-weight: 500;
 }
 .donors p:last-child a {
@@ -668,9 +695,9 @@ footer .email-modal {
     margin: 1.5rem 0;
   }
   .donors p:nth-child(4) {
-    width: 518px;
+    width: 380px;
   }
-  .donors p:nth-child(9) {
+  .donors p:nth-last-child(2) {
     width: 590px;
     margin: 15px 0;
   }
@@ -776,9 +803,9 @@ footer .email-modal {
     font-size: 1.45rem;
   }
   .donors p:nth-child(4) {
-    width: 595px;
+    width: 415px;
   }
-  .donors p:nth-child(9) {
+  .donors p:nth-last-child(2) {
     width: 635px;
     margin: 3rem 0 1rem;
   }
@@ -1055,9 +1082,9 @@ footer .email-modal {
     line-height: 1.9rem;
   }
   .donors p:nth-child(4) {
-    width: 635px;
+    width: 445px;
   }
-  .donors p:nth-child(9) {
+  .donors p:nth-last-child(2) {
     width: 680px;
   }
   .donors p:last-child a {
