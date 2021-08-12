@@ -472,13 +472,16 @@ div.donors {
   margin: 15px 0;
   line-height: 1.75rem;
 }
-.donors p:nth-child(4) {
-  width: 316px;
+.donors p:nth-child(3) {
+  margin: 0;
 }
-.donors p:nth-child(9) {
+.donors p:nth-child(4) {
+  width: 325px;
+}
+.donors p:nth-last-child(2) {
   width: 462px;
 }
-.donors p:nth-child(9), .donors p:nth-child(10) {
+.donors p:nth-last-child(2), .donors p:last-child {
   font-weight: 500;
 }
 .donors p:last-child a {
@@ -692,9 +695,9 @@ footer .email-modal {
     margin: 1.5rem 0;
   }
   .donors p:nth-child(4) {
-    width: 518px;
+    width: 380px;
   }
-  .donors p:nth-child(9) {
+  .donors p:nth-last-child(2) {
     width: 590px;
     margin: 15px 0;
   }
@@ -800,9 +803,9 @@ footer .email-modal {
     font-size: 1.45rem;
   }
   .donors p:nth-child(4) {
-    width: 595px;
+    width: 415px;
   }
-  .donors p:nth-child(9) {
+  .donors p:nth-last-child(2) {
     width: 635px;
     margin: 3rem 0 1rem;
   }
@@ -1079,9 +1082,9 @@ footer .email-modal {
     line-height: 1.9rem;
   }
   .donors p:nth-child(4) {
-    width: 635px;
+    width: 445px;
   }
-  .donors p:nth-child(9) {
+  .donors p:nth-last-child(2) {
     width: 680px;
   }
   .donors p:last-child a {
