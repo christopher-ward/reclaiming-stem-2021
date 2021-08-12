@@ -362,6 +362,11 @@ div.speakers {
   font-size: 1.15rem;
   width: 326px;
 }
+.angelina {
+  background-image: url("./resources/speakers/day_1/angelina_gomez_speaker.jpg");
+  background-position: -100px -34px;
+  background-size: 144%;
+}
 .evelyn {
   background-image: url("./resources/speakers/day_1/Evelyn_Valdez-Ward_Speaker_2.png");
   background-position: 19px -42px;
@@ -397,9 +402,10 @@ div.speakers {
   background-position: -5px 0px;
   background-size: 104%;
 }
-/* .chelsie {
-  background-image: url("./resources/speakers/day_1/");
-} */
+.chelsie {
+  background-image: url("./resources/speakers/day_1/Chelsie_Johnson_Speaker.JPG");
+  background-position: -75px 0px;
+}
 .emily {
   background-image: url("./resources/speakers/day_2/Emily_Turner_Speaker.jpg");
   background-position: 0px 0px;
