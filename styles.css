@@ -406,6 +406,11 @@ div.speakers {
   background-image: url("./resources/speakers/day_2/Emily_Turner_Speaker.jpg");
   background-position: 0px 0px;
 }
+.samia {
+  background-image: url("./resources/speakers/day_1/Samia_El_Joueidi_Speaker.jpg");
+  background-position: -14px -11px;
+  background-size: 115%;
+}
 .samantha {
   background-image: url("./resources/speakers/day_2/samantha_yammine_speaker.jpg");
   background-position: -20px -25px;
