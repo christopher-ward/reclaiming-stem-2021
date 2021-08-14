@@ -1,4 +1,4 @@
-# Reclaiming STEM 2021 Workshop Info Webpage
+# Reclaiming STEM 2021 Workshop Info Page
 ## Webpage for Workshop Participants
 - Learn about Reclaiming STEM
 - View current workshop agenda
