@@ -466,12 +466,14 @@ div.donors {
   font-size: 1.8rem;
   text-align: center;
   margin: 20px 0;
+  text-shadow: -2px 2px 5px #484847d1;
 }
 .donors p {
   text-align: center;
   font-size: 1.15rem;
   margin: 15px 0;
   line-height: 1.75rem;
+  text-shadow: -1px 1px 3px #4848478f;
 }
 .donors p:nth-child(3) {
   margin: 0;
